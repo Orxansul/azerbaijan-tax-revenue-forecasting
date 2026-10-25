@@ -21,7 +21,7 @@ The dashboard consists of four analytical pages containing 16 visual panels.
 
 Historical tax revenue trends, annual growth dynamics, comparative indicators, and long-term revenue development.
 
-![Historical Tax Revenue Analysis](<img width="1117" height="790" alt="image" src="https://github.com/user-attachments/assets/52355bde-319f-454d-820f-3554af190a89" />)
+[Historical Tax Revenue Analysis]<img width="1117" height="790" alt="image" src="https://github.com/user-attachments/assets/52355bde-319f-454d-820f-3554af190a89" />
 
 ---
 
@@ -31,7 +31,7 @@ Comparative evaluation of eight forecasting models using MAE, RMSE, MAPE, and WA
 
 The results highlight differences in forecasting accuracy across evaluation metrics.
 
-![Eight-Model Performance Comparison](<img width="1117" height="790" alt="image" src="https://github.com/user-attachments/assets/29375507-4d1e-4e56-8043-b58dfa2a72d9" />)
+[Eight-Model Performance Comparison]<img width="1117" height="790" alt="image" src="https://github.com/user-attachments/assets/29375507-4d1e-4e56-8043-b58dfa2a72d9" />
 
 ---
 
@@ -39,7 +39,7 @@ The results highlight differences in forecasting accuracy across evaluation metr
 
 Five-year statistical projections, alternative model forecasts, forecast dispersion, and historical prediction errors.
 
-![Tax Revenue Forecasts 2026–2030](<img width="1118" height="789" alt="image" src="https://github.com/user-attachments/assets/7f34167a-63ce-48f5-8823-2c003114eecb" />)
+[Tax Revenue Forecasts 2026–2030]<img width="1118" height="789" alt="image" src="https://github.com/user-attachments/assets/7f34167a-63ce-48f5-8823-2c003114eecb" />
 
 ---
 
@@ -47,7 +47,7 @@ Five-year statistical projections, alternative model forecasts, forecast dispers
 
 Consolidated model evaluation results, forecast comparison tables, and key analytical indicators.
 
-![Executive Summary Dashboard](<img width="1117" height="788" alt="image" src="https://github.com/user-attachments/assets/e09a9734-cc7b-4cac-9b3f-116592820781" />)
+[Executive Summary Dashboard]<img width="1117" height="788" alt="image" src="https://github.com/user-attachments/assets/e09a9734-cc7b-4cac-9b3f-116592820781" />
 
 ---
 
